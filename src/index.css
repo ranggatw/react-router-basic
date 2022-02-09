@@ -21,3 +21,12 @@ nav {
 nav a {
   margin-right: 16px;
 }
+
+
+/* 2. Create active css */
+/* nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+} */
+
+/* 3. This css line above is only normal css */
